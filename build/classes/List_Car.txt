@@ -1,0 +1,1 @@
+Chevrolet;LUV-DMAX;Azul;20000.0;4;Manual;

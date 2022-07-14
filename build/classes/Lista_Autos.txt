@@ -1,0 +1,6 @@
+Yamaha;206;Negro;20.000;4;Manual;
+Ford;F650;Rojo;20.500;4;Manual;
+Mazda;BT-50;Azul;12.000;4;Manual;
+Toyota;RAV4;Plomo;20.000;4;Manual;
+Chevrolet;LUV-DMAX;Magenta;55.000;4;Manual;
+Mazda;BT-50;Rojo;20.000;4;Manual;
